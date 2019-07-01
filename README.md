@@ -1,4 +1,4 @@
-#Deploying a Static Website on AWS
+# Deploying a Static Website on AWS
 
 This project is a deployment of a web app on  AWS.
 
