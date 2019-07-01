@@ -4,13 +4,15 @@ This project is a deployment of a web app on  AWS.
 
 The web app in question is a classic card Memory Game.
 
-As os June 30th 2019, 20:00 EST, you can access the website here: [http://d3mtcc3d0k0ulz.cloudfront.net/index.html](http://d3mtcc3d0k0ulz.cloudfront.net/index.html).
+As of June 30th 2019, 20:00 EST, you can access the website here: [https://du70wuvex990e.cloudfront.net/index.html](https://du70wuvex990e.cloudfront.net/index.html).
 
 The aforementioned working url also serves as a fulfillment of the final requirement of the project.
 
 Also included in this directory are the screenshots of the major steps taken to arrive at that that final criteria.
 
-Since they are imge
+Since they are image files, to view the .png files you can just simply click on the file names on this page: [https://github.com/call900913/dend-rchristy-project1](https://github.com/call900913/dend-rchristy-project1).
+
+
 ## Additional Information
 
 ### How to Play the Game
